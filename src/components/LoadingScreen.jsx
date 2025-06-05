@@ -4,6 +4,7 @@ export const LoadingScreen = ({ onComplete }) => {
   const [text, setText] = useState("");
   const fullText = " Welcome! Setting up your visit ⚙️";
 
+
   useEffect(() => {
     let index = 0;
     const interval = setInterval(() => {
