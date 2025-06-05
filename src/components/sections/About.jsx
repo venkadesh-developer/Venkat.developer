@@ -25,11 +25,11 @@ export const About = () => {
             About Me
           </h2>
 
-          <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
+          <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all hover:border-sky-400">
             <p className="text-gray-300 mb-6">
               Aspiring React Developer with practical internship experience, focused on crafting dynamic and responsive web interfaces.
-               Dedicated to delivering efficient front-end solutions and enhancing user experiences. 
-               Eager to contribute technical expertise and grow within a collaborative, innovative, and fast-paced development environment.
+              Dedicated to delivering efficient front-end solutions and enhancing user experiences.
+              Eager to contribute technical expertise and grow within a collaborative, innovative, and fast-paced development environment.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -68,7 +68,7 @@ export const About = () => {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
-            <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
+            <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all hover:border-sky-400">
               <h3 className="text-xl font-bold mb-4"> 🏫 Education </h3>
               <ul className="list-disc list-inside text-gray-300 space-y-2">
                 <li>
@@ -78,20 +78,40 @@ export const About = () => {
 
               </ul>
             </div>
-            <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
+            <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all hover:border-sky-400">
               <h3 className="text-xl font-bold mb-4"> 💼 Work Experience </h3>
               <div className="space-y-4 text-gray-300">
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Frontend Developer Intern at Manvian Group (March 2025 - Present){" "}
+                    Frontend Developer Intern at Manvian Group (March 2025 - May 2025){" "}
                   </h4>
                   <p>
-                    Designing and implementing responsive user interfaces, enhancing website performance, and improving UI/UX for a seamless user experience.
+                    Designing and implementing responsive user interfaces using React, optimizing website performance, and collaborating on UI/UX improvements for a seamless user experience.
                   </p>
                 </div>
               </div>
             </div>
+          </div>
+          <div className="p-8 rounded-xl border-white/10 border hover:-translate-y-1 transition-all mt-5 hover:border-sky-400 ">
+            <h3 className="text-xl font-bold mb-4">📜 Certifications</h3>
+            <ul className="list-disc list-inside text-gray-300 space-y-2">
+              <li>
+                <strong>Advanced SQL Certification</strong> – HackerRank
+              </li>
+              <li>
+                <strong>CSS Certification</strong> – HackerRank
+              </li>
+              <li>
+                <strong>Foundations of Cloud IoT</strong> – NPTEL
+              </li>
+              <li>
+                <strong>Network Essentials</strong> – TNSDC & Cisco
+              </li>
+              <li>
+                <strong>Foundations of Cloud Edge ML</strong> – NPTEL
+              </li>
+            </ul>
           </div>
         </div>
       </RevealOnScroll>
