@@ -33,6 +33,7 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
                 <a
+                target="_blank"
                   href="https://github.com/Venkadesh-11/Gemini-clone-React"
                   className="text-sky-400 hover:text-sky-300 transition-colors my-4"
                 >
