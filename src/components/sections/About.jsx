@@ -8,7 +8,7 @@ export const About = () => {
     "JavaScript",
     "CSS",
     "HTML",
-  
+
   ];
 
   const backendSkills = ["Java", "Oracle SQL"];
@@ -27,8 +27,9 @@ export const About = () => {
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-              Passionate developer with expertise in building scalable web
-              applications and creating innovative solutions.
+              Aspiring React Developer with practical internship experience, focused on crafting dynamic and responsive web interfaces.
+               Dedicated to delivering efficient front-end solutions and enhancing user experiences. 
+               Eager to contribute technical expertise and grow within a collaborative, innovative, and fast-paced development environment.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -74,7 +75,7 @@ export const About = () => {
                   <strong>Bachelor of Engineering in Electronics and Communication Engineering </strong> - Jeppiaar Engineering College , Chennai
                   (2020-2024)
                 </li>
-                
+
               </ul>
             </div>
             <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
@@ -86,7 +87,7 @@ export const About = () => {
                     Frontend Developer Intern at Manvian Group (March 2025 - Present){" "}
                   </h4>
                   <p>
-                  Designing and implementing responsive user interfaces, enhancing website performance, and improving UI/UX for a seamless user experience.
+                    Designing and implementing responsive user interfaces, enhancing website performance, and improving UI/UX for a seamless user experience.
                   </p>
                 </div>
               </div>
