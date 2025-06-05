@@ -65,7 +65,7 @@ export const MobileMenu = ({ menuOpen, setMenuOpen }) => {
             }        
     `}
       >
-        Connect
+        Connect 
       </a>
     </div>
   );

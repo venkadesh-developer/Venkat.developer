@@ -8,7 +8,7 @@ export const Contact = () => {
         <div className="text-center">
           {/* Title */}
           <h2 className="text-3xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent">
-            Connect With Me
+            Connect With Me 
           </h2>
 
           {/* Icons Row with Tooltips */}

@@ -97,16 +97,23 @@ export const About = () => {
             <h3 className="text-xl font-bold mb-4">📜 Certifications</h3>
             <ul className="list-disc list-inside text-gray-300 space-y-2">
               <li>
-                <strong>Advanced SQL Certification</strong> – HackerRank
+                <strong>Frontend Development Internship Certificate</strong>  – Manvian Group
+              </li>
+              <li>
+                <strong> JavaScript Certification </strong> – HackerRank
               </li>
               <li>
                 <strong>CSS Certification</strong> – HackerRank
               </li>
               <li>
-                <strong>Foundations of Cloud IoT</strong> – NPTEL
+                <strong> SQL Certification </strong> – HackerRank
               </li>
               <li>
-                <strong>Network Essentials</strong> – TNSDC & Cisco
+                <strong> Java Certification </strong> – Great Learnings
+              </li>
+              <li>
+                <strong>Network Essentials</strong> –  Cisco Networking Academy
+
               </li>
               <li>
                 <strong>Foundations of Cloud Edge ML</strong> – NPTEL

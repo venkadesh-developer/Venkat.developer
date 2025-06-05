@@ -60,12 +60,12 @@ export const Projects = () => {
                 ))}
               </div>
               <div className="flex justify-between items-center">
-                <a
+                {/* <a
                   href="#"
                   className="text-sky-400 hover:text-sky-300 transition-colors my-4"
                 >
                   View Project →
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
