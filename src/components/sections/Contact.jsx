@@ -45,13 +45,14 @@ export const Contact = () => {
 
             {/* Resume */}
             <div className="relative group">
-              <a href="https://drive.google.com/file/d/1i_IzIEnZ55SU0Lev6GMZLeaQSmeO93f_/view?usp=sharing" target="_blank" download className="text-white text-3xl hover:text-sky-400 transition">
+              <a href="https://drive.google.com/file/d/1bPRF1yRtu0aZ0qNaXPGGu-OJbefrM56U/view?usp=sharing" target="_blank" download className="text-white text-3xl hover:text-sky-400 transition">
                 <FaFileDownload />
               </a>
               <span className="absolute -top-8 left-1/2 transform -translate-x-1/2 bg-sky-800 text-white text-xs px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition">
                 Resume
               </span>
             </div>
+            {/* Instagram */}
           </div>
         </div>
       </RevealOnScroll>

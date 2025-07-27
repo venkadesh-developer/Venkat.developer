@@ -37,7 +37,7 @@ export const Projects = () => {
                   href="https://github.com/Venkadesh-11/Gemini-clone-React"
                   className="text-sky-400 hover:text-sky-300 transition-colors my-4"
                 >
-                  View Project →
+                  GitHub - Link  →
                 </a>
               </div>
             </div>
@@ -46,7 +46,7 @@ export const Projects = () => {
             <div
               className="glass p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)] transition-all"
             >
-              <h3 className="text-xl font-bold mb-2">Company Website Development – Manvian Internship</h3>
+              <h3 className="text-xl font-bold mb-2">Company Website Development – Manvian</h3>
               <p className="text-gray-400 mb-4">
                 Developed and maintained a responsive company website using React.js and Tailwind CSS to improve user experience and accessibility across devices. Actively collaborated with the development team, contributed to key frontend tasks, and worked on real-time internship projects as a fresher React developer.
               </p>
@@ -61,12 +61,13 @@ export const Projects = () => {
                 ))}
               </div>
               <div className="flex justify-between items-center">
-                {/* <a
-                  href="#"
+                 <a
+                  href="https://manvian.com/"
+                target="_blank"
                   className="text-sky-400 hover:text-sky-300 transition-colors my-4"
                 >
-                  View Project →
-                </a> */}
+                  Live - Link →
+                </a> 
               </div>
             </div>
           </div>
